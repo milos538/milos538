@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! :raised_hands:
 
-- :books: Software Engineer at IGT
+- :books: Software Engineer at Everyday Technology
 - 👨‍💻 I enjoy making video games and solving algorithmic problems
 - 📫 How to reach me: mstojicic26@gmail.com
 
